@@ -6,7 +6,7 @@ MatLab simulation of the intermediate axis theorem, also called the Dzhanibekov 
 Rigid body free rotating dynamics simulation conditions:
 <ul>
   <li>Cubic body (mimicing a CUBESAT). Body parameters found in <code>body_params.m</code></li>
-  <li>Free rotation &rarr no external forces applied</code></li>
+  <li>Free rotation &#8594 no external forces applied</code></li>
   <li>The body has initial angular velocity in the intermediate axis of inertia and a really small angular velocity in one of the other axis (hypotetical perturbation that triggers this strange behavior). Initial conditions are provided in <code>mian.m</code></li>
 </p>
 <p>
@@ -14,7 +14,7 @@ NOTE: the code provided is compatible with the free rotation dynamics of any rig
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/79655304/154386104-f5219667-fb47-4a48-a5b4-1e0caea625f8.gif"  | width=500 >
+    <img src="https://user-images.githubusercontent.com/79655304/154386750-7b80b68c-d74c-4fa8-a2c6-41c4be607c93.gif"  | width=500 >
 </p>
 
 <p align="center">
