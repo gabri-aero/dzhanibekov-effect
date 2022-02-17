@@ -8,6 +8,7 @@ Rigid body free rotating dynamics simulation conditions:
   <li>Cubic body (mimicing a CUBESAT). Body parameters found in <code>body_params.m</code></li>
   <li>Free rotation &#8594 no external forces applied</code></li>
   <li>The body has initial angular velocity in the intermediate axis of inertia and a really small angular velocity in one of the other axis (hypotetical perturbation that triggers this strange behavior). Initial conditions are provided in <code>mian.m</code></li>
+</ul>
 </p>
 <p>
 NOTE: the code provided is compatible with the free rotation dynamics of any rigid body having provided its body parameters. Besides that, adding external forces can be easily done changing <code>rot_dynamics.m</code>.
