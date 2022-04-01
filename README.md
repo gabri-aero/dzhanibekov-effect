@@ -15,7 +15,8 @@ NOTE: the code provided is compatible with the free rotation dynamics of any rig
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/79655304/154386750-7b80b68c-d74c-4fa8-a2c6-41c4be607c93.gif"  | width=500 >
+    <img src="https://user-images.githubusercontent.com/79655304/161180432-231f830b-40d9-46c4-839e-e9637cdd5d38.gif"
+  | width=500 >
 </p>
 
 <p align="center">
